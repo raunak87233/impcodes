@@ -27,7 +27,7 @@ int main(){
     vector<int>A={5,2,4,7,8,3,1,9};
     sort(A);
      
-    cout<<"sorted";
+    cout<<"sorted\n";
     printVector(A);
     return 0;
 }
